@@ -1,1 +1,1 @@
-# Angular with Nrjx App
+# Angular (featuring Nrjs) App
